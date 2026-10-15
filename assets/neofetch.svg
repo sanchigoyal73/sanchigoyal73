@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" width="960" height="430" role="img" aria-label="Sanchi&#x27;s tech stack, neofetch style">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="318" y1="100" x2="900" y2="330">
+      <stop offset="0" stop-color="#FFE45C"/><stop offset=".5" stop-color="#FFB13B"/><stop offset="1" stop-color="#6CCFF6"/>
+    </linearGradient>
+    <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE45C"/><stop offset=".55" stop-color="#FFB13B"/><stop offset="1" stop-color="#6CCFF6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff" opacity=".022"/></pattern>
+  </defs>
+  <style>
+    .t{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+    .ln{opacity:0;animation:in .35s ease-out forwards}
+    .blk{fill:url(#g)}
+    .sh{fill:none;stroke:#6CCFF6;stroke-width:1.3;opacity:.55}
+    .key{opacity:0;animation:press 4s infinite}
+    @keyframes press{0%{opacity:0}4%,30%{opacity:1}40%,100%{opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite}
+    .glow{filter:url(#glow)}
+    @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.ln{animation:none;opacity:1}.cur{animation:none}}
+  </style>
+  <rect x="1" y="1" width="958" height="428" rx="14" fill="#0D1117" stroke="#1F2A36" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="428" rx="14" fill="url(#scan)"/>
+  <path d="M1 44H959" stroke="#1F2A36" stroke-width="1.5"/>
+  <circle cx="26" cy="23" r="6" fill="#FF6B5B"/><circle cx="46" cy="23" r="6" fill="#FFB13B"/><circle cx="66" cy="23" r="6" fill="#7BE0A0"/>
+  <text x="480.0" y="28" text-anchor="middle" class="t" fill="#5B6B7C" font-size="13">sanchi@github: ~ — neofetch</text>
+  <g class="t" font-size="14">
+        <text x="30" y="96" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:.1s">.------------------------------------------.</text>
+    <text x="30" y="122" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:0.20s">|[`][1][2][3][4][5][6][7][8][9][0][&lt;-]     |</text>
+    <text x="30" y="148" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:0.30s">| [Q][W][E][R][T][Y][U][I][O][P]           |</text>
+    <text x="30" y="174" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:0.40s">|  [A][S][D][F][G][H][J][K][L][ret]        |</text>
+    <text x="30" y="200" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:0.50s">|   [Z][X][C][V][B][N][M][,][.]            |</text>
+    <text x="30" y="226" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:.7s">| [fn][ctl][     s p a c e     ][alt]      |</text>
+    <text x="30" y="252" class="ln" fill="#5B6B7C" textLength="369.6" style="animation-delay:.8s">&apos;------------------------------------------&apos;</text>
+    <text x="223.2" y="148" class="key" fill="#FFB13B" textLength="25.2" style="animation-delay:3.15s">[I]</text>
+    <text x="55.2" y="174" class="key" fill="#FFB13B" textLength="25.2" style="animation-delay:1.75s">[A]</text>
+    <text x="80.4" y="174" class="key" fill="#FFB13B" textLength="25.2" style="animation-delay:1.40s">[S]</text>
+    <text x="181.2" y="174" class="key" fill="#FFB13B" textLength="25.2" style="animation-delay:2.80s">[H]</text>
+    <text x="114.0" y="200" class="key" fill="#FFB13B" textLength="25.2" style="animation-delay:2.45s">[C]</text>
+    <text x="189.6" y="200" class="key" fill="#FFB13B" textLength="25.2" style="animation-delay:2.10s">[N]</text>
+    <text x="30" y="288.4" class="ln" fill="#6CCFF6" style="animation-delay:0.90s">        .------------------.</text>
+    <text x="30" y="307.4" class="ln" fill="#6CCFF6" style="animation-delay:0.98s">        |  &gt; hello, world_ |</text>
+    <text x="30" y="326.4" class="ln" fill="#6CCFF6" style="animation-delay:1.06s">        |                  |</text>
+    <text x="30" y="345.4" class="ln" fill="#6CCFF6" style="animation-delay:1.14s">        &#x27;--------..--------&#x27;</text>
+    <text x="30" y="364.4" class="ln" fill="#6CCFF6" style="animation-delay:1.22s">              ___||___</text>
+  </g>
+  <line x1="440" y1="66" x2="440" y2="404" stroke="#1F2A36" stroke-width="1.5" stroke-dasharray="3 5"/>
+  <g class="t" font-size="14.5">
+        <text x="470" y="90" class="ln" style="animation-delay:.3s"><tspan fill="#FFB13B" font-weight="700">sanchi</tspan><tspan fill="#C9D4DF">@</tspan><tspan fill="#FFB13B" font-weight="700">github</tspan></text>
+    <text x="470" y="112" class="ln" fill="#5B6B7C" style="animation-delay:.4s">───────────────</text>
+    <text x="470" y="142" class="ln" style="animation-delay:0.50s"><tspan fill="#6CCFF6" font-weight="700">role</tspan><tspan x="552" fill="#C9D4DF">full-stack dev · ai engineer · student</tspan></text>
+    <text x="470" y="170" class="ln" style="animation-delay:0.62s"><tspan fill="#6CCFF6" font-weight="700">langs</tspan><tspan x="552" fill="#C9D4DF">TypeScript · JavaScript · Python · C++</tspan></text>
+    <text x="470" y="198" class="ln" style="animation-delay:0.74s"><tspan fill="#6CCFF6" font-weight="700">web</tspan><tspan x="552" fill="#C9D4DF">React · Next.js · Vite · Tailwind · shadcn/ui</tspan></text>
+    <text x="470" y="226" class="ln" style="animation-delay:0.86s"><tspan fill="#6CCFF6" font-weight="700">motion</tspan><tspan x="552" fill="#C9D4DF">Three.js / R3F · GSAP · Framer Motion · Lenis</tspan></text>
+    <text x="470" y="254" class="ln" style="animation-delay:0.98s"><tspan fill="#6CCFF6" font-weight="700">backend</tspan><tspan x="552" fill="#C9D4DF">Node.js · Express · FastAPI · Apps Script</tspan></text>
+    <text x="470" y="282" class="ln" style="animation-delay:1.10s"><tspan fill="#6CCFF6" font-weight="700">ml</tspan><tspan x="552" fill="#C9D4DF">PyTorch · scikit-learn · pandas · SHAP</tspan></text>
+    <text x="470" y="310" class="ln" style="animation-delay:1.22s"><tspan fill="#6CCFF6" font-weight="700">testing</tspan><tspan x="552" fill="#C9D4DF">Vitest · Playwright · Testing Library</tspan></text>
+    <text x="470" y="338" class="ln" style="animation-delay:1.34s"><tspan fill="#6CCFF6" font-weight="700">ship</tspan><tspan x="552" fill="#C9D4DF">Git · GitHub Actions · Vercel · npm</tspan></text>
+    <rect class="ln" x="470" y="370" width="26" height="14" rx="2" fill="#FF6B5B" style="animation-delay:1.60s"/>
+    <rect class="ln" x="500" y="370" width="26" height="14" rx="2" fill="#FFB13B" style="animation-delay:1.65s"/>
+    <rect class="ln" x="530" y="370" width="26" height="14" rx="2" fill="#FFE45C" style="animation-delay:1.70s"/>
+    <rect class="ln" x="560" y="370" width="26" height="14" rx="2" fill="#7BE0A0" style="animation-delay:1.75s"/>
+    <rect class="ln" x="590" y="370" width="26" height="14" rx="2" fill="#6CCFF6" style="animation-delay:1.80s"/>
+    <rect class="ln" x="620" y="370" width="26" height="14" rx="2" fill="#7C9CFF" style="animation-delay:1.85s"/>
+    <rect class="ln" x="650" y="370" width="26" height="14" rx="2" fill="#F78FB3" style="animation-delay:1.90s"/>
+    <rect class="ln" x="680" y="370" width="26" height="14" rx="2" fill="#C9D4DF" style="animation-delay:1.95s"/>
+  </g>
+</svg>
