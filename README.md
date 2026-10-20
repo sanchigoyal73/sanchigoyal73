@@ -10,3 +10,22 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   -->
 </p>
+
+```text
+ ┌─────────────────────────────────────────────────────────────┐
+ │  $ whoami                                                   │
+ │    sanchi goyal . 3rd-year student . delhi                  │
+ │                                                             │
+ │  $ cat now.txt                                              │
+ │    building   a 3D portfolio with an interactive keyboard   │
+ │    shipping   websites for real clients                     │
+ │    team       NetWM @ SIH 2026, I own the feature pipeline  │
+ │    ask me     Next.js, motion, three.js, scroll magic       │
+ │                                                             │
+ │  $ _                                                        │
+ └─────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="./assets/neofetch.svg" alt="neofetch-style card: TypeScript, JavaScript, Python, C++; React, Next.js, Vite, Tailwind, shadcn/ui; Three.js, GSAP, Framer Motion, Lenis; Node.js, Express, FastAPI; PyTorch, scikit-learn, pandas, SHAP; Vitest, Playwright; Git, GitHub Actions, Vercel" width="100%"/>
+</p>
