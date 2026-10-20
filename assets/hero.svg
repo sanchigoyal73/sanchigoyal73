@@ -39,7 +39,7 @@
     <text x="34" y="201" class="ln" style="animation-delay:0.35s">      /_/</text>
     <text x="34" y="222" class="ln" style="animation-delay:0.41s"> .-----------.</text>
     <text x="34" y="243" class="ln" style="animation-delay:0.47s">/  ___   ___  \</text>
-    <text x="34" y="264" class="ln eye" style="animation-delay:0.53s">|  | o | | o |  |</text>
+    <g class="eye"><text x="34" y="264" class="ln" style="animation-delay:0.53s">|  | o | | o |  |</text></g>
     <text x="34" y="285" class="ln" style="animation-delay:0.59s">|  &#x27;---&#x27; &#x27;---&#x27;  |</text>
     <text x="34" y="306" class="ln" style="animation-delay:0.65s">|    \_____/    |</text>
     <text x="34" y="327" class="ln" style="animation-delay:0.71s"> \_____________/</text>
