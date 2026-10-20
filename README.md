@@ -80,3 +80,12 @@
     <img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/sanchigoyal73/sanchigoyal73/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </p>
+
+```text
+          __
+         / /        thanks for stopping by.
+        / /__       the bot is fully charged,
+       /__  /       and so is the commit graph.
+         / /
+        /_/         -- sanchi
+```
