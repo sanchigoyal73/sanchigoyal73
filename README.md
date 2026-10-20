@@ -41,3 +41,22 @@
 | **ml & data** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="34" alt="PyTorch, scikit-learn"/> <br/> ![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-0D1117?style=flat-square) ![Scapy](https://img.shields.io/badge/Scapy-0D1117?style=flat-square) | NetWM, SIH 2026: forecasting network attacks with a world model |
 | **ai tooling** | <img src="https://skillicons.dev/icons?i=notion" height="34" alt="Notion"/> <br/> ![Claude API](https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=white) ![Ink](https://img.shields.io/badge/Ink_CLI-0D1117?style=flat-square) | [ai-pet-logger](https://github.com/sanchigoyal73/ai-pet-logger): a CLI pet that journals your git work into Notion |
 | **ship & test** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vitest" height="34" alt="Git, GitHub, GitHub Actions, Vercel, Vitest"/> <br/> ![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2EAD33) | every project above, deployed on Vercel |
+
+### `02` &nbsp;how a project moves through my hands
+
+```text
+   idea                design               build                  ship
+  ──────            ──────────           ───────────            ──────────
+ ┌────────┐        ┌────────────┐       ┌─────────────┐        ┌───────────┐
+ │ brief  │ ─────> │ references │ ────> │ Next.js /   │ ─────> │ Vercel    │
+ │ + why  │        │ + layout   │       │ React + TS  │        │ + Actions │
+ └────────┘        └────────────┘       └──────┬──────┘        └─────┬─────┘
+                                               │                     │
+                         ┌─────────────────────┼──────────┐          │
+                         v                     v          v          v
+                  ┌────────────┐      ┌─────────────┐  ┌───────┐  ┌──────────┐
+                  │ motion     │      │ api         │  │ ml    │  │ commit   │
+                  │ GSAP · 3D  │      │ Node · Fast │  │ torch │  │ small,   │
+                  └────────────┘      └─────────────┘  └───────┘  │ often    │
+                                                                  └──────────┘
+```
