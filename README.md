@@ -45,20 +45,19 @@
 ### `02` &nbsp;how a project moves through my hands
 
 ```text
-   idea                design               build                  ship
-  ──────            ──────────           ───────────            ──────────
- ┌────────┐        ┌────────────┐       ┌─────────────┐        ┌───────────┐
- │ brief  │ ─────> │ references │ ────> │ Next.js /   │ ─────> │ Vercel    │
- │ + why  │        │ + layout   │       │ React + TS  │        │ + Actions │
- └────────┘        └────────────┘       └──────┬──────┘        └─────┬─────┘
-                                               │                     │
-                         ┌─────────────────────┼──────────┐          │
-                         v                     v          v          v
-                  ┌────────────┐      ┌─────────────┐  ┌───────┐  ┌──────────┐
-                  │ motion     │      │ api         │  │ ml    │  │ commit   │
-                  │ GSAP · 3D  │      │ Node · Fast │  │ torch │  │ small,   │
-                  └────────────┘      └─────────────┘  └───────┘  │ often    │
-                                                                  └──────────┘
+   idea           design           build              ship
+ ┌────────┐     ┌──────────┐     ┌────────────┐     ┌──────────┐
+ │ brief  │ ──> │ refs +   │ ──> │ Next.js /  │ ──> │ Vercel + │
+ │ + why  │     │ layout   │     │ React + TS │     │ Actions  │
+ └────────┘     └──────────┘     └─────┬──────┘     └────┬─────┘
+                                       │                 │
+              ┌────────────────────────┼─────────┐       v
+              v                        v         v    small commits,
+        ┌───────────┐          ┌───────────┐ ┌───────┐ shipped often
+        │ motion    │          │ api       │ │ ml    │
+        │ GSAP · 3D │          │ Node ·    │ │ torch │
+        └───────────┘          │ FastAPI   │ └───────┘
+                               └───────────┘
 ```
 
 ### `03` &nbsp;commit log, visualised
