@@ -101,10 +101,13 @@
 </p>
 
 ```text
-          __
-         / /        thanks for stopping by.
-        / /__       the bot is fully charged,
-       /__  /       and so is the commit graph.
-         / /
-        /_/         -- sanchi
+                                   z Z
+        /\_/\                    z
+       ( -.- )  .------------------------------.
+        > ^ <  /  [Q][W][E][R][T][Y][U][I][O]  /
+     ~(________)  [A][S][D][F][G][H][J][K]    /
+               '------------------------------'
+
+   > session ended. the cat fell asleep on the keyboard.
+   > see you next commit.  -- sanchi  (=^･ω･^=)
 ```
