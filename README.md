@@ -24,9 +24,9 @@
    │ ask me about   Next.js, motion, three.js, cats              │
    └──┬──────────────────────────────────────────────────────────┘
       │
-  /\_/\ │   meow. that means: welcome in.
- ( o.o )
-  > ^ <
+    /\_/\     meow. that means: welcome in.
+   ( o.o )
+    > ^ <
 ```
 
 ### `01` &nbsp;the stack, and where it shows up
