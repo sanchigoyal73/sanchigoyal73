@@ -51,7 +51,18 @@
 
 </details>
 
-### `02` &nbsp;how a project moves through my hands
+### `02` &nbsp;ミッション // pinned missions
+
+<p align="center">
+  <a href="https://github.com/sanchigoyal73/FINSTAR"><img src="./assets/repo-finstar.svg" alt="FINSTAR: gamified money-skills app for teens" width="49%"/></a>
+  <a href="https://github.com/sanchigoyal73/Onyx"><img src="./assets/repo-onyx.svg" alt="Onyx: website security scanner where AI fixes issues and opens PRs" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/sanchigoyal73/hallucination-hunter"><img src="./assets/repo-hallucination-hunter.svg" alt="hallucination-hunter: audits AI answers against a source" width="49%"/></a>
+  <a href="https://github.com/ArunmehtaBuild/NetWM"><img src="./assets/repo-netwm.svg" alt="NetWM: forecasting network attacks with a world model, SIH 2026" width="49%"/></a>
+</p>
+
+### `03` &nbsp;プロセス // how a project moves through my hands
 
 ```text
    idea           design           build              ship
