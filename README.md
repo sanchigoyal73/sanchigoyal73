@@ -80,10 +80,10 @@
                                └───────────┘
 ```
 
-### `03` &nbsp;commit log, visualised
+### `04` &nbsp;ログ // commit log, visualised
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchigoyal73&theme=tokyonight&hide_border=true&background=0D1117&ring=FFB13B&fire=FFE45C&currStreakLabel=FFB13B&sideLabels=6CCFF6&dates=5B6B7C" alt="GitHub streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=sanchigoyal73&hide_border=true&background=07090C&stroke=1C2630&ring=FF4FA3&fire=FF4FA3&currStreakNum=FF4FA3&currStreakLabel=FF4FA3&sideNums=7CF3C8&sideLabels=7CF3C8&dates=4F6170&font=JetBrains%20Mono" alt="GitHub streak" width="100%"/>
 </p>
 
 <p align="center">
