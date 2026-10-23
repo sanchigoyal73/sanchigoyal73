@@ -29,7 +29,11 @@
     > ^ <
 ```
 
-### `01` &nbsp;the stack, and where it shows up
+### `01` &nbsp;ロードアウト // loadout
+
+<p align="center">
+  <img src="./assets/loadout.svg" alt="Loadout card: a cat sitting on a keyboard next to the stack. Languages TypeScript, JavaScript, Python, C++. Web React, Next.js, Vite, Tailwind, shadcn. Motion Three.js, GSAP, Framer Motion. Backend Node.js, Express, FastAPI, Apps Script. ML PyTorch, scikit-learn, pandas, SHAP. AI Claude API. Ship Git, GitHub Actions, Vercel, Vitest" width="100%"/>
+</p>
 
 | layer | tools | where I've used it |
 |:--|:--|:--|
