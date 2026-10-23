@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 460" width="960" height="460" role="img" aria-label="Sanchi pass card: Sanchi Goyal, full-stack and AI, stack TypeScript, Python and React, from Delhi, 3rd year, with an ASCII portrait and callout tags">
+  <style>
+    .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+    .s{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .f{font-family:Georgia,'Times New Roman',serif}
+    .j{font-family:'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans JP','Noto Sans CJK JP','Yu Gothic',Meiryo,sans-serif}
+    .ln{opacity:0;animation:in .5s ease-out forwards}
+    .fill{animation:fill 2.6s 1s cubic-bezier(.2,.7,.2,1) both}
+    .cur{animation:blink 1.1s steps(1) infinite}
+    @keyframes in{from{opacity:0}to{opacity:1}}
+    @keyframes fill{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.ln{animation:none;opacity:1}.fill,.cur{animation:none}}
+  </style>
+  <rect width="960" height="460" rx="8" fill="#1A0B0E"/>
+  <rect x="250" y="70" width="460" height="300" rx="6" fill="#FA374E"/>
+  <text x="270" y="100" fill="#1A0B0E" font-size="13" font-weight="800" class="s" letter-spacing="2">SANCHI PASS CARD</text>
+  <text x="690" y="100" fill="#1A0B0E" font-size="13" text-anchor="end" font-weight="700" class="j">サンチ</text>
+  <rect x="270" y="116" width="172" height="196" fill="#FFF1EA"/>
+  <text x="276" y="146.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.10s"><tspan fill="#1A0B0E">        ^_l    r8&amp;&amp;C     YQ ?ahj|poMkMWM#M##oo**#ao*%XnxZbZQ@$$W</tspan></text>
+  <text x="276" y="150.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.11s"><tspan fill="#1A0B0E">        ` ?     m888}    I0r |Mqt&lt;LaoaoqOph#MW&amp;#ahW@L  tn[L,W$$W</tspan></text>
+  <text x="276" y="154.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.12s"><tspan fill="#1A0B0E">~        ^]     }8&amp;Bw     }k&lt; v#m)lLMW#qUn)Jd#MoMMMB) f0)+pUk$$B</tspan></text>
+  <text x="276" y="158.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.14s"><tspan fill="#1A0B0E">|;       ^__     OMM8]     JY  m0Z}&lt;QW8#pv-^~xw*WM#k} c[j/pMB@$$</tspan></text>
+  <text x="276" y="162.8" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.15s"><tspan fill="#1A0B0E">z),      ` 1     nL&amp;BJI    _b&lt; [WjQ+ILWB&amp;Ox  i(uma@vv[(1vvza&amp;8$$</tspan></text>
+  <text x="276" y="167.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.16s"><tspan fill="#1A0B0E">Mj|l      `t     )v#%k1     Uu  OQxX/(d8B&amp;p(&gt;  [jm@(&lt;u1^jUv*k8$$</tspan></text>
+  <text x="276" y="171.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.17s"><tspan fill="#1A0B0E">#h|}&gt;     ^]     -z0%8f     /w-tO&amp;JbZYtn&amp;@8J: {xc*B`(f^(1zk%Z8$$</tspan></text>
+  <text x="276" y="175.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.18s"><tspan fill="#1A0B0E">&amp;mqt][    ^}     &gt;YXa%Y1)fzJL*u/(&amp;f(.U0)nW@@bpOjJ&amp;#-{li)^p@$08B$</tspan></text>
+  <text x="276" y="179.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.20s"><tspan fill="#1A0B0E">*auqv1([  `{     {Ct#WdQYn|_ wtj}*XLnqY&amp;&amp;*W@@#hYkdJ:Cf}&lt;p$%$mM%$</tspan></text>
+  <text x="276" y="183.8" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.21s"><tspan fill="#1A0B0E">oabvpu-ft{&#x27;-     |0tZhY)   ^[qxmn#qa#M8dq&amp;dMp00d8O#pabwo%B&amp;&amp;dW8$</tspan></text>
+  <text x="276" y="188.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.22s"><tspan fill="#1A0B0E">#%M#YqJ]]/zU1I   xL(va&lt;~  jcjmd8%B#%#hMI!)maOfjoZ{d(vCkBW$@&amp;k&amp;W$</tspan></text>
+  <text x="276" y="192.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.23s"><tspan fill="#1A0B0E">{p*dp)jZc!.{_11})knzfw ~ }-fd8Qa&amp;*kWhkc]}udwC-Q#~&lt;8@kpda#@$8a#W$</tspan></text>
+  <text x="276" y="196.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.24s"><tspan fill="#1A0B0E">oQLWWWY-fQYj    zO+CQQ{r|xUknZ tnvU*cnXYOdba*W%c!|@@oZBoW&amp;$%baW$</tspan></text>
+  <text x="276" y="200.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.26s"><tspan fill="#1A0B0E">&amp;%&amp;M8%BW0ucOzj-]q?{rq+I! }v_vhOhqpb#dwma#W@$$BUwboMBWk&amp;M&amp;#$%dhM$</tspan></text>
+  <text x="276" y="204.8" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.27s"><tspan fill="#1A0B0E">vo*M8&amp;%8%&amp;W0fjXbUnJzz}/xLddpoLOx[|pU(xr|).(8$m irMp8hh*Bah@8pw*$</tspan></text>
+  <text x="276" y="209.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.28s"><tspan fill="#1A0B0E">f|cLqhkahkW8W&amp;WpZdmbXb8qu+ ?L&#x27;r 1Xr^     ~ O$r  QjY$okqB#k%%Lmo$</tspan></text>
+  <text x="276" y="213.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.29s"><tspan fill="#1A0B0E">qkadmqhhh*#h&amp;kdkWpaqoBw!  ?Ou/0vx;         Z@! )b w$d*0k*oM@Ow#$</tspan></text>
+  <text x="276" y="217.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.30s"><tspan fill="#1A0B0E">zLpYXCLQJt/w#JJ(/wCnnY&amp;qu|Y1;x|           ,M0 ld1?B@*pMhbaM80LM$</tspan></text>
+  <text x="276" y="221.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.32s"><tspan fill="#1A0B0E">]jtOL}  }tjrWdxxYj    |hoYI {u            CM] Zc 0@@@&amp;oMOWoaCwW$</tspan></text>
+  <text x="276" y="225.8" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.33s"><tspan fill="#1A0B0E">r/[:&gt;fjf}l :pk)l        xkQ//-         _xbp1 Q0 n@@$$$8wQ&amp;@Zvk%$</tspan></text>
+  <text x="276" y="230.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.34s"><tspan fill="#1A0B0E">O]11[~  ?[[?*Q;           fQpmUujjxvJ0OOX{ lZZ:nBB$$$$B#WMBUOa@$</tspan></text>
+  <text x="276" y="234.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.35s"><tspan fill="#1A0B0E">Waf  i_+: _LM),              &gt;(jxxf(-     ]dZtZ@@$$$$$%MB%*zMW$$</tspan></text>
+  <text x="276" y="238.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.36s"><tspan fill="#1A0B0E">##*mujfuUO0v+ :                          f#km&amp;$@$$$$@888%8mw&amp;8$$</tspan></text>
+  <text x="276" y="242.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.38s"><tspan fill="#1A0B0E">$$@88oYt]      ;&gt;iI&#x27;,                  ~L@%@@@$$$@B$%BBWBWCW8B$$</tspan></text>
+  <text x="276" y="246.8" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.39s"><tspan fill="#1A0B0E">M&amp;8%B&amp;MkOf]_                `])-      f*$@$$$$@B%B$@@$B%8dpBW@$$</tspan></text>
+  <text x="276" y="251.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.40s"><tspan fill="#1A0B0E">&amp;%@$$$$$$@kY(   trxjtruCOqppdQj.    -O@$@$$@B&amp;WB$$@@$$BB*w&amp;*&amp;$$$</tspan></text>
+  <text x="276" y="255.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.41s"><tspan fill="#1A0B0E">M#M#WWW&amp;&amp;%@$$M0r_l}||jrn/|t|{I`    u&amp;$$$$B888@$B%B$$$@%B*b%*@$$$</tspan></text>
+  <text x="276" y="259.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.42s"><tspan fill="#1A0B0E">888%%%B$$@@$$@$$Bpc|}(fnjf}+,    (b$$@@$@B$$BBB@$$$$B8M&amp;mW&amp;B$$$$</tspan></text>
+  <text x="276" y="263.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.44s"><tspan fill="#1A0B0E">&amp;&amp;8@B%W*W@@BB$@$@$@Bdv]        (w@@B%88%B@@B$$$$$$@B%W%od8B$$$$$</tspan></text>
+  <text x="276" y="267.8" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.45s"><tspan fill="#1A0B0E">MW%8%%$B8W%BB%$$B8%&amp;B$@a0zuvYOa$$$$$@$$$$$$$$$$$$@%B$&amp;Wd@B$$$$@8</tspan></text>
+  <text x="276" y="272.0" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.46s"><tspan fill="#1A0B0E">$%&amp;8&amp;M&amp;B$$B8W%%%$BWW#$$@@$@@@&amp;W%BB@@@@@@@B%@@@@@BB$$%&amp;hW@$$$$@%#</tspan></text>
+  <text x="276" y="276.2" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.47s"><tspan fill="#1A0B0E">$$hWBBMoM8$$8oWBMBB#MB@@$@@@$$B%BB@@@@@BB$$$$@@@$$$%8*M%$$$$@8Wo</tspan></text>
+  <text x="276" y="280.4" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.48s"><tspan fill="#1A0B0E">B$abB$@%Mh8@$@*M@#%Mo88@B@$$BB@$$$$$$$$$$$$@$$$$$B%%##%$$$$@&amp;&amp;&amp;8</tspan></text>
+  <text x="276" y="284.6" class="m ln" font-size="4.1" textLength="160.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.50s"><tspan fill="#1A0B0E">W$$vB@$$B%b&amp;@$%WWB##aM8$$@$$$$$@@$$$$$$$$$$$$$BB%BBWM8$$$$BW%BB$</tspan></text>
+  <path d="M270 322h2v22h-2zM274 322h2v22h-2zM277 322h2v22h-2zM281 322h1v22h-1zM283 322h3v22h-3zM291 322h1v22h-1zM294 322h1v22h-1zM297 322h3v22h-3zM301 322h1v22h-1zM303 322h3v22h-3zM314 322h2v22h-2zM320 322h3v22h-3zM325 322h1v22h-1zM328 322h3v22h-3zM336 322h1v22h-1zM338 322h1v22h-1zM340 322h2v22h-2zM347 322h1v22h-1zM349 322h3v22h-3zM353 322h3v22h-3zM361 322h3v22h-3zM370 322h2v22h-2zM374 322h3v22h-3zM378 322h3v22h-3zM387 322h3v22h-3zM391 322h2v22h-2zM395 322h2v22h-2zM398 322h1v22h-1zM410 322h3v22h-3zM414 322h2v22h-2zM421 322h1v22h-1zM423 322h3v22h-3zM432 322h2v22h-2zM436 322h2v22h-2z" fill="#1A0B0E"/>
+  <text x="464" y="134" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.30s" letter-spacing="1.5">NAME</text>
+  <text x="464" y="149" fill="#FFF1EA" font-size="15" font-weight="700" class="s ln" style="animation-delay:0.35s">Sanchi Goyal</text>
+  <text x="464" y="164" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.38s" letter-spacing="1.5">CLASS</text>
+  <text x="464" y="179" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.43s">full-stack // ai</text>
+  <text x="464" y="194" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.46s" letter-spacing="1.5">STACK</text>
+  <text x="464" y="209" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.51s">TS · Python · React</text>
+  <text x="464" y="224" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.54s" letter-spacing="1.5">ORIGIN</text>
+  <text x="464" y="239" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.59s">Delhi, India</text>
+  <text x="464" y="254" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.62s" letter-spacing="1.5">YEAR</text>
+  <text x="464" y="269" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.67s">3rd</text>
+  <text x="464" y="284" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.70s" letter-spacing="1.5">STATUS</text>
+  <text x="464" y="299" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.75s">Exit allowed</text>
+  <rect x="610" y="318" width="80" height="32" fill="#1A0B0E"/><text x="650" y="339" fill="#FA374E" font-size="10" text-anchor="middle" font-weight="800" class="s">EXIT PASS</text>
+  <path d="M200 106H225.0V120H250" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <rect x="40" y="92" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <text x="48" y="107" fill="#FA374E" font-size="10" font-weight="800" class="s">Description</text>
+  <text x="48" y="123" fill="#FFF1EA" font-size="10.5" class="s">builds websites people use</text>
+  <path d="M200 242H225.0V240H250" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <rect x="40" y="228" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <text x="48" y="243" fill="#FA374E" font-size="10" font-weight="800" class="s">Material</text>
+  <text x="48" y="259" fill="#FFF1EA" font-size="10.5" class="s">TypeScript · Python · C++</text>
+  <path d="M200 366H225.0V330H250" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <rect x="40" y="352" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <text x="48" y="367" fill="#FA374E" font-size="10" font-weight="800" class="s">Now</text>
+  <text x="48" y="383" fill="#FFF1EA" font-size="10.5" class="s">3D portfolio, keyboard</text>
+  <path d="M760 124H735.0V130H710" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <rect x="760" y="110" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <text x="768" y="125" fill="#FA374E" font-size="10" font-weight="800" class="s">Team</text>
+  <text x="768" y="141" fill="#FFF1EA" font-size="10.5" class="s">NetWM · SIH 2026</text>
+  <path d="M760 244H735.0V250H710" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <rect x="760" y="230" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <text x="768" y="245" fill="#FA374E" font-size="10" font-weight="800" class="s">Motion</text>
+  <text x="768" y="261" fill="#FFF1EA" font-size="10.5" class="s">GSAP · Three.js</text>
+  <path d="M760 364H735.0V330H710" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <rect x="760" y="350" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
+  <text x="768" y="365" fill="#FA374E" font-size="10" font-weight="800" class="s">Exit</text>
+  <text x="768" y="381" fill="#FFF1EA" font-size="10.5" class="s">github.com/sanchigoyal73</text>
+  <text x="932" y="434" fill="#8E6F72" font-size="10" text-anchor="end" class="s">valid until: forever</text>
+</svg>
