@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Sanchi // Builder of AI Systems: AI engineer and full-stack developer, 3rd-year student from Delhi, next to an ASCII portrait of a girl with glasses">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Sanchi // Builder of AI Systems: full-stack AI engineer, 3rd-year student from Delhi, next to an ASCII portrait of a girl with glasses">
   <style>
     .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
     .s{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
@@ -24,7 +24,7 @@
   <rect x="46" y="106" width="362" height="8" fill="#F3DCD2"/><rect x="46" y="106" width="264" height="8" fill="#FA374E" class="fill" style="transform-origin:46px 0"/>
   <text x="30" y="222" fill="#FFF1EA" font-size="76" font-weight="800" class="s ln" style="animation-delay:0.20s" letter-spacing="-2">Sanchi //</text>
   <text x="36" y="262" fill="#FA374E" font-size="30" class="f ln" style="animation-delay:0.40s" font-style="italic">Builder of AI Systems</text>
-  <text x="36" y="292" fill="#FFF1EA" font-size="12.5" class="s ln" style="animation-delay:0.50s">ai engineer · full-stack developer · 3rd-year student</text>
+  <text x="36" y="292" fill="#FFF1EA" font-size="12.5" class="s ln" style="animation-delay:0.50s">full-stack ai engineer · 3rd-year student · delhi</text>
   <text x="452" y="100" fill="#8E6F72" font-size="12" class="s ln" font-weight="800" letter-spacing="4" transform="rotate(90 452 100)" style="animation-delay:.6s">PORTFOLIO · 2026</text>
   <path d="M452 288V330" stroke="#FA374E" stroke-width="2"/>
   <path d="M36 324H144" stroke="#FFF1EA" stroke-opacity=".35" stroke-width="2"/>
@@ -36,7 +36,7 @@
   <path d="M292 324H400" stroke="#FFF1EA" stroke-opacity=".35" stroke-width="2"/>
   <text x="292" y="362" fill="#FFF1EA" font-size="30" font-weight="800" class="s ln" style="animation-delay:1.00s">DEL</text>
   <text x="292" y="380" fill="#FA374E" font-size="10" font-weight="700" class="s ln" style="animation-delay:1.05s" letter-spacing="2">ORIGIN</text>
-  <g class="ln" style="animation-delay:1.10s"><rect x="36" y="412" width="371" height="22" rx="11" fill="#2A1518"/><text x="48" y="427" fill="#FFF1EA" font-size="11.5" class="s"><tspan fill="#FA374E" font-weight="700">training</tspan> world models that forecast network attacks</text></g>
+  <g class="ln" style="animation-delay:1.10s"><rect x="36" y="412" width="323" height="22" rx="11" fill="#2A1518"/><text x="48" y="427" fill="#FFF1EA" font-size="11.5" class="s"><tspan fill="#FA374E" font-weight="700">building</tspan> AI products end to end, UI to model</text></g>
   <g class="ln" style="animation-delay:1.25s"><rect x="36" y="442" width="309" height="22" rx="11" fill="#2A1518"/><text x="48" y="457" fill="#FFF1EA" font-size="11.5" class="s"><tspan fill="#FA374E" font-weight="700">auditing</tspan> LLM answers, sentence by sentence</text></g>
   <g class="ln" style="animation-delay:1.40s"><rect x="36" y="472" width="309" height="22" rx="11" fill="#2A1518"/><text x="48" y="487" fill="#FFF1EA" font-size="11.5" class="s"><tspan fill="#FA374E" font-weight="700">shipping</tspan> AI agents that open their own PRs</text></g>
   <rect x="490" y="64" width="454.40000000000003" height="422.59999999999997" fill="#FA374E" transform="translate(10 10)"/>
