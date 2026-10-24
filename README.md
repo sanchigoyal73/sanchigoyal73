@@ -1,33 +1,19 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="NEKO BIOS boot screen: SANCHI GOYAL in ASCII art next to an ASCII anime cat portrait. Full-stack developer and AI engineer, 3rd-year student from Delhi" width="100%"/>
+  <img src="./assets/hero.svg" alt="Sanchi // Builder of the Web. Full-stack developer, AI engineer, 3rd-year student from Delhi, next to an ASCII portrait of a girl with glasses" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sanchigoyal73"><img src="https://img.shields.io/github/followers/sanchigoyal73?style=flat-square&logo=github&logoColor=7CF3C8&label=FOLLOWERS&labelColor=07090C&color=7CF3C8" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sanchigoyal73&style=flat-square&color=FF4FA3&label=VISITORS" alt="Profile visitors"/>
-  <img src="https://img.shields.io/badge/BASE-DELHI-B69CFF?style=flat-square&labelColor=07090C" alt="Based in Delhi"/>
-  <img src="https://img.shields.io/badge/CAT-ONLINE_(=%5E%EF%BD%A5%CF%89%EF%BD%A5%5E=)-FF4FA3?style=flat-square&labelColor=07090C" alt="Cat online"/>
+  <a href="https://github.com/sanchigoyal73"><img src="https://img.shields.io/github/followers/sanchigoyal73?style=flat-square&logo=github&logoColor=FFF1EA&label=FOLLOWERS&labelColor=1A0B0E&color=FA374E" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sanchigoyal73&style=flat-square&color=FA374E&label=VISITORS" alt="Profile visitors"/>
+  <img src="https://img.shields.io/badge/BASE-DELHI-FA374E?style=flat-square&labelColor=1A0B0E" alt="Based in Delhi"/>
   <!-- socials go here, e.g.
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1A0B0E?style=flat-square&logo=linkedin&logoColor=FFF1EA" alt="LinkedIn"/></a>
   -->
 </p>
 
 <p align="center">
-  <img src="./assets/idcard.svg" alt="NEKO-NET personnel card. Operator Sanchi Goyal, サンチ・ゴヤル. Class: full-stack dev and AI engineer. Rank: 3rd-year student. Origin: Delhi. Focus: web, 3D and ML. Companion: one cat. Status: fully charged" width="100%"/>
+  <img src="./assets/passcard.svg" alt="Sanchi pass card. Name Sanchi Goyal, class full-stack and AI, stack TypeScript, Python and React, origin Delhi, 3rd year. Callouts: builds websites people use; now building a 3D portfolio; team NetWM at SIH 2026; motion with GSAP and Three.js" width="100%"/>
 </p>
-
-```text
-   ┌─────────────────────────────────────────────────────────────┐
-   │ now building   a 3D portfolio with an interactive keyboard  │
-   │ shipping       websites for real clients                    │
-   │ team           NetWM @ SIH 2026, I own the feature pipeline │
-   │ ask me about   Next.js, motion, three.js, cats              │
-   └──┬──────────────────────────────────────────────────────────┘
-      │
-    /\_/\     meow. that means: welcome in.
-   ( o.o )
-    > ^ <
-```
 
 ### `01` &nbsp;ロードアウト // loadout
 
