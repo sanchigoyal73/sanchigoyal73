@@ -4,9 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BASE-DELHI-FA374E?style=flat-square&labelColor=1A0B0E" alt="Based in Delhi"/>
-  <!-- socials go here, e.g.
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1A0B0E?style=flat-square&logo=linkedin&logoColor=FFF1EA" alt="LinkedIn"/></a>
-  -->
+  <a href="https://www.linkedin.com/in/sanchigoyal"><img src="https://img.shields.io/badge/LINKEDIN-sanchigoyal-FA374E?style=flat-square&logo=linkedin&logoColor=FFF1EA&labelColor=1A0B0E" alt="LinkedIn: sanchigoyal"/></a>
 </p>
 
 <p align="center">
