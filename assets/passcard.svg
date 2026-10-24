@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 460" width="960" height="460" role="img" aria-label="Sanchi pass card: Sanchi Goyal, AI engineer and full-stack developer, stack Python, PyTorch and TypeScript, from Delhi, 3rd year, with an ASCII portrait and callout tags">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 460" width="960" height="460" role="img" aria-label="Sanchi pass card: Sanchi Goyal, full-stack AI engineer, stack TypeScript, Python and LLMs, from Delhi, 3rd year, with an ASCII portrait and callout tags">
   <style>
     .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
     .s{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
@@ -55,9 +55,9 @@
   <text x="464" y="134" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.30s" letter-spacing="1.5">NAME</text>
   <text x="464" y="149" fill="#FFF1EA" font-size="15" font-weight="700" class="s ln" style="animation-delay:0.35s">Sanchi Goyal</text>
   <text x="464" y="164" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.38s" letter-spacing="1.5">CLASS</text>
-  <text x="464" y="179" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.43s">ai engineer // full-stack</text>
+  <text x="464" y="179" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.43s">full-stack ai engineer</text>
   <text x="464" y="194" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.46s" letter-spacing="1.5">STACK</text>
-  <text x="464" y="209" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.51s">Python · PyTorch · TS</text>
+  <text x="464" y="209" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.51s">TS · Python · LLMs</text>
   <text x="464" y="224" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.54s" letter-spacing="1.5">ORIGIN</text>
   <text x="464" y="239" fill="#1A0B0E" font-size="13" font-weight="700" class="s ln" style="animation-delay:0.59s">Delhi, India</text>
   <text x="464" y="254" fill="#B8203A" font-size="9.5" font-weight="800" class="s ln" style="animation-delay:0.62s" letter-spacing="1.5">YEAR</text>
@@ -68,23 +68,23 @@
   <path d="M200 106H225.0V120H250" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <rect x="40" y="92" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <text x="48" y="107" fill="#FA374E" font-size="10" font-weight="800" class="s">Description</text>
-  <text x="48" y="123" fill="#FFF1EA" font-size="10.5" class="s">builds AI that explains itself</text>
+  <text x="48" y="123" fill="#FFF1EA" font-size="10.5" class="s">builds AI products end to end</text>
   <path d="M200 242H225.0V240H250" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <rect x="40" y="228" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <text x="48" y="243" fill="#FA374E" font-size="10" font-weight="800" class="s">Material</text>
-  <text x="48" y="259" fill="#FFF1EA" font-size="10.5" class="s">Python · PyTorch · TypeScript</text>
+  <text x="48" y="259" fill="#FFF1EA" font-size="10.5" class="s">TypeScript · Python · React</text>
   <path d="M200 366H225.0V330H250" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <rect x="40" y="352" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <text x="48" y="367" fill="#FA374E" font-size="10" font-weight="800" class="s">Now</text>
-  <text x="48" y="383" fill="#FFF1EA" font-size="10.5" class="s">LLM evals + world models</text>
+  <text x="48" y="383" fill="#FFF1EA" font-size="10.5" class="s">LLM apps + evals</text>
   <path d="M760 124H735.0V130H710" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <rect x="760" y="110" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <text x="768" y="125" fill="#FA374E" font-size="10" font-weight="800" class="s">Team</text>
   <text x="768" y="141" fill="#FFF1EA" font-size="10.5" class="s">NetWM · SIH 2026</text>
   <path d="M760 244H735.0V250H710" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <rect x="760" y="230" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
-  <text x="768" y="245" fill="#FA374E" font-size="10" font-weight="800" class="s">Models</text>
-  <text x="768" y="261" fill="#FFF1EA" font-size="10.5" class="s">PyTorch · sklearn · LLMs</text>
+  <text x="768" y="245" fill="#FA374E" font-size="10" font-weight="800" class="s">Stack</text>
+  <text x="768" y="261" fill="#FFF1EA" font-size="10.5" class="s">Next.js · FastAPI · Claude</text>
   <path d="M760 364H735.0V330H710" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <rect x="760" y="350" width="160" height="40" fill="none" stroke="#FFF1EA" stroke-width="1.2"/>
   <text x="768" y="365" fill="#FA374E" font-size="10" font-weight="800" class="s">Exit</text>
