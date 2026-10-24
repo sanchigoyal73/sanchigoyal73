@@ -15,14 +15,14 @@
   <img src="./assets/passcard.svg" alt="Sanchi pass card. Name Sanchi Goyal, class full-stack and AI, stack TypeScript, Python and React, origin Delhi, 3rd year. Callouts: builds websites people use; now building a 3D portfolio; team NetWM at SIH 2026; motion with GSAP and Three.js" width="100%"/>
 </p>
 
-### `01` &nbsp;ロードアウト // loadout
+### `01` &nbsp;持ち物 // inventory
 
 <p align="center">
-  <img src="./assets/loadout.svg" alt="Loadout card: a cat sitting on a keyboard next to the stack. Languages TypeScript, JavaScript, Python, C++. Web React, Next.js, Vite, Tailwind, shadcn. Motion Three.js, GSAP, Framer Motion. Backend Node.js, Express, FastAPI, Apps Script. ML PyTorch, scikit-learn, pandas, SHAP. AI Claude API. Ship Git, GitHub Actions, Vercel, Vitest" width="100%"/>
+  <img src="./assets/loadout.svg" alt="Inventory: TypeScript, JavaScript, Python, C++; React, Next.js, Vite, Tailwind, shadcn; Three.js, GSAP, Framer Motion, Lenis; Node.js, Express, FastAPI, Apps Script; PyTorch, scikit-learn, pandas, SHAP; Claude API; Git, GitHub Actions, Vercel, Vitest, Playwright. Next to an ASCII pink lily" width="100%"/>
 </p>
 
 <details>
-<summary><code>&gt; cat stack.log</code> &nbsp;where each tool shows up</summary>
+<summary><code>&gt; open stack.log</code> &nbsp;where each tool shows up</summary>
 <br/>
 
 | layer | tools | where I've used it |
