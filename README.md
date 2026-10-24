@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Sanchi // Builder of the Web. Full-stack developer, AI engineer, 3rd-year student from Delhi, next to an ASCII portrait of a girl with glasses" width="100%"/>
+  <img src="./assets/hero.svg" alt="Sanchi // Builder of AI Systems. AI engineer and full-stack developer, 3rd-year student from Delhi: training world models that forecast network attacks, auditing LLM answers, shipping AI agents that open their own PRs. Next to an ASCII portrait of a girl with glasses" width="100%"/>
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <img src="./assets/passcard.svg" alt="Sanchi pass card. Name Sanchi Goyal, class full-stack and AI, stack TypeScript, Python and React, origin Delhi, 3rd year. Callouts: builds websites people use; now building a 3D portfolio; team NetWM at SIH 2026; motion with GSAP and Three.js" width="100%"/>
+  <img src="./assets/passcard.svg" alt="Sanchi pass card. Name Sanchi Goyal, class AI engineer and full-stack, stack Python, PyTorch and TypeScript, origin Delhi, 3rd year. Callouts: builds AI that explains itself; now LLM evals and world models; team NetWM at SIH 2026; models PyTorch, scikit-learn and LLMs" width="100%"/>
 </p>
 
 ### `01` &nbsp;inventory
 
 <p align="center">
-  <img src="./assets/loadout.svg" alt="Inventory: TypeScript, JavaScript, Python, C++; React, Next.js, Vite, Tailwind, shadcn; Three.js, GSAP, Framer Motion, Lenis; Node.js, Express, FastAPI, Apps Script; PyTorch, scikit-learn, pandas, SHAP; Claude API; Git, GitHub Actions, Vercel, Vitest, Playwright. Next to an ASCII pink lily" width="100%"/>
+  <img src="./assets/loadout.svg" alt="Inventory: AI with the Claude API, LLM judges and agents; ML with PyTorch, scikit-learn and world models; data with pandas, NumPy and Scapy; explainability with SHAP and Captum; serving with FastAPI, Node.js and Express; Python, TypeScript, JavaScript, C++; shipping with Git, GitHub Actions, Vercel and pytest. Next to an ASCII pink lily" width="100%"/>
 </p>
 
 #### tech stack
@@ -75,10 +75,10 @@
   <a href="https://github.com/ArunmehtaBuild/NetWM"><img src="./assets/repo-netwm.svg" alt="NetWM: forecasting network attacks with a world model, SIH 2026" width="49%"/></a>
 </p>
 
-### `03` &nbsp;how a project moves
+### `03` &nbsp;how a model ships
 
 <p align="center">
-  <img src="./assets/process.svg" alt="How a project moves: 01 brief, 02 references, 03 build with Next.js, React and TypeScript, 04 motion, API and ML layers, 05 ship on Vercel with GitHub Actions" width="100%"/>
+  <img src="./assets/process.svg" alt="How a model ships: 01 problem, 02 data, 03 model with PyTorch, scikit-learn or LLMs, 04 evaluate with metrics, SHAP and LLM judges, 05 serve with FastAPI and Vercel" width="100%"/>
 </p>
 
 ### `04` &nbsp;commit log
