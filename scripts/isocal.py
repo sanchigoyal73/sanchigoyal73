@@ -12,7 +12,8 @@ from datetime import date, timedelta
 from html import escape
 
 INK, DARK, CREAM, MUTE, RED = "#1A0B0E", "#2A1518", "#FFF1EA", "#8E6F72", "#FA374E"
-LEVELS = ["#2A1518", "#7A2534", "#A92B40", "#D83248", "#FA374E"]
+LEVELS = ["#161B22", "#0E4429", "#006D32", "#26A641", "#39D353"]
+GREEN = "#39D353"
 SANS = "'Helvetica Neue',Helvetica,Arial,sans-serif"
 MONO = "ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace"
 
@@ -85,14 +86,14 @@ def render(user, days):
     for i, (big, small) in enumerate(stats):
         y = 140 + i * 62
         s.append(f'<path d="M32 {y - 34}H200" stroke="{CREAM}" stroke-opacity=".2"/>')
-        s.append(f'<text x="32" y="{y}" fill="{CREAM if i else RED}" font-family="{SANS}" font-size="28" font-weight="800">{big}</text>')
+        s.append(f'<text x="32" y="{y}" fill="{CREAM if i else GREEN}" font-family="{SANS}" font-size="28" font-weight="800">{big}</text>')
         s.append(f'<text x="32" y="{y + 17}" fill="{MUTE}" font-family="{SANS}" font-size="10.5" font-weight="700" letter-spacing="1.5">{escape(small.upper())}</text>')
     s.append(f'<text x="{W - 210}" y="{H - 26}" fill="{MUTE}" font-family="{MONO}" font-size="10.5">less</text>')
     for i, c in enumerate(LEVELS):
         s.append(f'<rect x="{W - 176 + i * 22}" y="{H - 36}" width="16" height="12" fill="{c}"/>')
     s.append(f'<text x="{W - 32}" y="{H - 26}" fill="{MUTE}" font-family="{MONO}" font-size="10.5" text-anchor="end">more</text>')
     for i in range(4):
-        s.append(f'<path d="M{32 + i * 20} {H - 24}l7 -14h10l-7 14z" fill="{RED}"/>')
+        s.append(f'<path d="M{32 + i * 20} {H - 24}l7 -14h10l-7 14z" fill="{GREEN}"/>')
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" '
             f'aria-label="Isometric contribution calendar for {escape(user)}: {total} contributions in the last year">'
             f'<rect width="{W}" height="{H}" rx="8" fill="{INK}"/>{"".join(cubes)}{"".join(s)}</svg>\n')
