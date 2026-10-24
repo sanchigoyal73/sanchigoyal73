@@ -55,7 +55,6 @@
   <text x="34" y="386.8" class="m ln" font-size="7.6" textLength="368.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.19s"><tspan fill="#FCFCFC">                                                                                </tspan></text>
   <text x="36" y="430" fill="#FFF1EA" font-size="10.5" class="m">FIG. 02 — pink lily, ascii from photo</text>
   <text x="450" y="64" fill="#1A0B0E" font-size="40" font-weight="800" class="s" letter-spacing="-1">Inventory</text>
-  <text x="660" y="64" fill="#FA374E" font-size="22" font-weight="700" class="j">持ち物</text>
   <path d="M450 82H928" stroke="#1A0B0E" stroke-width="2"/>
   <rect x="450" y="104" width="80" height="24" fill="#FA374E" class="ln" style="animation-delay:0.20s"/>
   <text x="490" y="121" fill="#FFF1EA" font-size="10.5" text-anchor="middle" font-weight="800" class="s ln" style="animation-delay:0.20s" letter-spacing="1.5">LANG</text>
