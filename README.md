@@ -37,7 +37,7 @@
 
 </details>
 
-### `02` &nbsp;ミッション // pinned missions
+### `02` &nbsp;ファイル // pinned files
 
 <p align="center">
   <a href="https://github.com/sanchigoyal73/FINSTAR"><img src="./assets/repo-finstar.svg" alt="FINSTAR: gamified money-skills app for teens" width="49%"/></a>
