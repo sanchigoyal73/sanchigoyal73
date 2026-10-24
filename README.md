@@ -74,14 +74,6 @@
   </picture>
 </p>
 
-```text
-                                   z Z
-        /\_/\                    z
-       ( -.- )  .------------------------------.
-        > ^ <  /  [Q][W][E][R][T][Y][U][I][O]  /
-     ~(________)  [A][S][D][F][G][H][J][K]    /
-               '------------------------------'
-
-   > session ended. the cat fell asleep on the keyboard.
-   > see you next commit.  -- sanchi  (=^･ω･^=)
-```
+<p align="center">
+  <img src="./assets/footer.svg" alt="Two ASCII lilies in their original pink, with the words thank you for visiting, mata ne" width="100%"/>
+</p>
