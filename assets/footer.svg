@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-label="Two ASCII lilies in their original pink, with the words thank you for visiting, mata ne">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-label="Two ASCII lilies in their original pink, with the words thank you for visiting, see you soon">
   <style>
     .m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
     .s{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
@@ -84,7 +84,7 @@
   <text x="675.2" y="244.6" class="m ln" font-size="5.8" textLength="244.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.96s"><tspan fill="#FCFCFC">                                                               </tspan><tspan fill="#FCF0F0"> </tspan><tspan fill="#F0E4E4">*</tspan><tspan fill="#FCF0F0"> </tspan><tspan fill="#FCFCFC">      </tspan></text>
   <text x="675.2" y="250.8" class="m ln" font-size="5.8" textLength="244.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.98s"><tspan fill="#FCFCFC">                                                                        </tspan></text>
   <text x="480.0" y="120" fill="#FFF1EA" font-size="30" text-anchor="middle" class="f" font-style="italic">thank you for visiting</text>
-  <text x="480.0" y="162" fill="#FA374E" font-size="26" text-anchor="middle" font-weight="700" class="j">またね</text>
+  <text x="480.0" y="162" fill="#FA374E" font-size="22" text-anchor="middle" font-weight="800" class="s">see you soon</text>
   <text x="480.0" y="200" fill="#FFF1EA" font-size="12" text-anchor="middle" class="m" opacity=".7">— sanchi, signing off</text>
   <rect x="420.0" y="226" width="120" height="3" fill="#FA374E"/>
 </svg>
