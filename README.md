@@ -21,6 +21,38 @@
   <img src="./assets/loadout.svg" alt="Inventory: TypeScript, JavaScript, Python, C++; React, Next.js, Vite, Tailwind, shadcn; Three.js, GSAP, Framer Motion, Lenis; Node.js, Express, FastAPI, Apps Script; PyTorch, scikit-learn, pandas, SHAP; Claude API; Git, GitHub Actions, Vercel, Vitest, Playwright. Next to an ASCII pink lily" width="100%"/>
 </p>
 
+#### tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,dart,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, Dart, HTML, CSS"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark" alt="React, Next.js, Vite, Tailwind, Three.js, Flutter"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,sklearn&theme=dark" alt="Node.js, Express, FastAPI, PyTorch, scikit-learn"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vitest,npm,notion&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, Vitest, npm, Notion"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn/ui-1A0B0E?style=for-the-badge&logo=shadcnui&logoColor=FFF1EA" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Radix_UI-1A0B0E?style=for-the-badge&logo=radixui&logoColor=FA374E" alt="Radix UI"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-1A0B0E?style=for-the-badge&logo=framer&logoColor=FFF1EA" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/GSAP-1A0B0E?style=for-the-badge&logo=greensock&logoColor=FFF1EA" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/React_Three_Fiber-1A0B0E?style=for-the-badge" alt="React Three Fiber"/>
+  <img src="https://img.shields.io/badge/Lenis-1A0B0E?style=for-the-badge" alt="Lenis"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-1A0B0E?style=for-the-badge&logo=reacthookform&logoColor=FFF1EA" alt="React Hook Form"/>
+  <img src="https://img.shields.io/badge/Zod-1A0B0E?style=for-the-badge&logo=zod&logoColor=FA374E" alt="Zod"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-1A0B0E?style=for-the-badge&logo=reactquery&logoColor=FFF1EA" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/pandas-1A0B0E?style=for-the-badge&logo=pandas&logoColor=FFF1EA" alt="pandas"/>
+  <img src="https://img.shields.io/badge/SHAP-1A0B0E?style=for-the-badge" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/Playwright-1A0B0E?style=for-the-badge" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Google_Maps-1A0B0E?style=for-the-badge&logo=googlemaps&logoColor=FFF1EA" alt="Google Maps"/>
+  <img src="https://img.shields.io/badge/Apps_Script-1A0B0E?style=for-the-badge&logo=googleappsscript&logoColor=FA374E" alt="Apps Script"/>
+  <img src="https://img.shields.io/badge/Leaflet-1A0B0E?style=for-the-badge&logo=leaflet&logoColor=FFF1EA" alt="Leaflet"/>
+  <img src="https://img.shields.io/badge/Swiper-1A0B0E?style=for-the-badge&logo=swiper&logoColor=FFF1EA" alt="Swiper"/>
+  <img src="https://img.shields.io/badge/Claude_API-1A0B0E?style=for-the-badge&logo=anthropic&logoColor=FA374E" alt="Claude API"/>
+</p>
+
 <details>
 <summary><code>&gt; open stack.log</code> &nbsp;where each tool shows up</summary>
 <br/>
