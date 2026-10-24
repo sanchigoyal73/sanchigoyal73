@@ -15,7 +15,7 @@
   <rect width="470" height="230" rx="8" fill="#1A0B0E"/>
   <rect x="0" y="0" width="470" height="54" rx="8" fill="#FA374E"/><rect x="0" y="40" width="470" height="14" fill="#FA374E"/>
   <text x="20" y="35" fill="#1A0B0E" font-size="12" font-weight="800" class="s" letter-spacing="2">FILE 02</text>
-  <text x="450" y="35" fill="#1A0B0E" font-size="14" text-anchor="end" font-weight="700" class="j">オニキス</text>
+  <text x="450" y="35" fill="#1A0B0E" font-size="11" text-anchor="end" font-weight="800" class="s" letter-spacing="2">PINNED</text>
   <text x="20" y="96" fill="#FFF1EA" font-size="28" font-weight="800" class="s ln" style="animation-delay:0.10s" letter-spacing="-.5">Onyx</text>
   <text x="20" y="124" fill="#FFF1EA" font-size="12.5" class="s ln" style="animation-delay:0.20s" opacity=".8">Scans your website for security issues, then an AI fixes</text>
   <text x="20" y="142" fill="#FFF1EA" font-size="12.5" class="s ln" style="animation-delay:0.28s" opacity=".8">them and even raises the pull requests for you.</text>
