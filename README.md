@@ -54,10 +54,10 @@
   <img src="./assets/process.svg" alt="How a project moves: 01 brief, 02 references, 03 build with Next.js, React and TypeScript, 04 motion, API and ML layers, 05 ship on Vercel with GitHub Actions" width="100%"/>
 </p>
 
-### `04` &nbsp;ログ // commit log, visualised
+### `04` &nbsp;記録 // commit log
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchigoyal73&hide_border=true&background=07090C&stroke=1C2630&ring=FF4FA3&fire=FF4FA3&currStreakNum=FF4FA3&currStreakLabel=FF4FA3&sideNums=7CF3C8&sideLabels=7CF3C8&dates=4F6170&font=JetBrains%20Mono" alt="GitHub streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=sanchigoyal73&hide_border=true&background=1A0B0E&stroke=3A2227&ring=FA374E&fire=FA374E&currStreakNum=FFF1EA&currStreakLabel=FA374E&sideNums=FFF1EA&sideLabels=FA374E&dates=8E6F72" alt="GitHub streak" width="100%"/>
 </p>
 
 <p align="center">
