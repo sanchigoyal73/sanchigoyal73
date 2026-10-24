@@ -48,23 +48,11 @@
   <a href="https://github.com/ArunmehtaBuild/NetWM"><img src="./assets/repo-netwm.svg" alt="NetWM: forecasting network attacks with a world model, SIH 2026" width="49%"/></a>
 </p>
 
-### `03` &nbsp;プロセス // how a project moves through my hands
+### `03` &nbsp;工程 // how a project moves
 
-```text
-   idea           design           build              ship
- ┌────────┐     ┌──────────┐     ┌────────────┐     ┌──────────┐
- │ brief  │ ──> │ refs +   │ ──> │ Next.js /  │ ──> │ Vercel + │
- │ + why  │     │ layout   │     │ React + TS │     │ Actions  │
- └────────┘     └──────────┘     └─────┬──────┘     └────┬─────┘
-                                       │                 │
-              ┌────────────────────────┼─────────┐       v
-              v                        v         v    small commits,
-        ┌───────────┐          ┌───────────┐ ┌───────┐ shipped often
-        │ motion    │          │ api       │ │ ml    │
-        │ GSAP · 3D │          │ Node ·    │ │ torch │
-        └───────────┘          │ FastAPI   │ └───────┘
-                               └───────────┘
-```
+<p align="center">
+  <img src="./assets/process.svg" alt="How a project moves: 01 brief, 02 references, 03 build with Next.js, React and TypeScript, 04 motion, API and ML layers, 05 ship on Vercel with GitHub Actions" width="100%"/>
+</p>
 
 ### `04` &nbsp;ログ // commit log, visualised
 
