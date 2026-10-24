@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Sanchi // Builder of AI Systems. AI engineer and full-stack developer, 3rd-year student from Delhi: training world models that forecast network attacks, auditing LLM answers, shipping AI agents that open their own PRs. Next to an ASCII portrait of a girl with glasses" width="100%"/>
+  <img src="./assets/hero.svg" alt="Sanchi // Builder of AI Systems. Full-stack AI engineer, 3rd-year student from Delhi: building AI products end to end, auditing LLM answers, shipping AI agents that open their own PRs. Next to an ASCII portrait of a girl with glasses" width="100%"/>
 </p>
 
 <p align="center">
@@ -8,44 +8,42 @@
 </p>
 
 <p align="center">
-  <img src="./assets/passcard.svg" alt="Sanchi pass card. Name Sanchi Goyal, class AI engineer and full-stack, stack Python, PyTorch and TypeScript, origin Delhi, 3rd year. Callouts: builds AI that explains itself; now LLM evals and world models; team NetWM at SIH 2026; models PyTorch, scikit-learn and LLMs" width="100%"/>
+  <img src="./assets/passcard.svg" alt="Sanchi pass card. Name Sanchi Goyal, class full-stack AI engineer, stack TypeScript, Python and LLMs, origin Delhi, 3rd year. Callouts: builds AI products end to end; now LLM apps and evals; team NetWM at SIH 2026; stack Next.js, FastAPI and Claude" width="100%"/>
 </p>
 
 ### `01` &nbsp;inventory
 
 <p align="center">
-  <img src="./assets/loadout.svg" alt="Inventory: AI with the Claude API, LLM judges and agents; ML with PyTorch, scikit-learn and world models; data with pandas, NumPy and Scapy; explainability with SHAP and Captum; serving with FastAPI, Node.js and Express; Python, TypeScript, JavaScript, C++; shipping with Git, GitHub Actions, Vercel and pytest. Next to an ASCII pink lily" width="100%"/>
+  <img src="./assets/loadout.svg" alt="Inventory: AI with the Claude API, LLM judges and agents; frontend with React, Next.js, Vite, Tailwind and shadcn; backend with FastAPI, Node.js and Express; evals with LLM-as-judge and tests; models with PyTorch, scikit-learn and SHAP; TypeScript, Python, JavaScript, C++; shipping with Git, GitHub Actions, Vercel and pytest. Next to an ASCII pink lily" width="100%"/>
 </p>
 
 #### tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,ts,js,cpp&theme=dark" alt="Python, PyTorch, scikit-learn, FastAPI, TypeScript, JavaScript, C++"/>
+  <img src="https://skillicons.dev/icons?i=ts,py,js,react,nextjs,fastapi,nodejs&theme=dark" alt="TypeScript, Python, JavaScript, React, Next.js, FastAPI, Node.js"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,tailwind&theme=dark" alt="Node.js, Express, React, Next.js, Vite, Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=express,vite,tailwind,pytorch,sklearn,cpp&theme=dark" alt="Express, Vite, Tailwind, PyTorch, scikit-learn, C++"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,notion,linux&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, Notion, Linux"/>
 </p>
 
-<p align="center"><b>ai + ml</b><br/>
+<p align="center"><b>ai</b><br/>
   <img src="https://img.shields.io/badge/Claude_API-1A0B0E?style=for-the-badge&logo=anthropic&logoColor=FA374E" alt="Claude API"/>
   <img src="https://img.shields.io/badge/LLM_judges-1A0B0E?style=for-the-badge" alt="LLM judges"/>
   <img src="https://img.shields.io/badge/AI_agents-1A0B0E?style=for-the-badge" alt="AI agents"/>
   <img src="https://img.shields.io/badge/PyTorch-1A0B0E?style=for-the-badge&logo=pytorch&logoColor=FA374E" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-1A0B0E?style=for-the-badge&logo=scikitlearn&logoColor=FFF1EA" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Captum-1A0B0E?style=for-the-badge" alt="Captum"/>
   <img src="https://img.shields.io/badge/SHAP-1A0B0E?style=for-the-badge" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/pandas-1A0B0E?style=for-the-badge&logo=pandas&logoColor=FFF1EA" alt="pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-1A0B0E?style=for-the-badge&logo=numpy&logoColor=FA374E" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scapy-1A0B0E?style=for-the-badge" alt="Scapy"/>
-  <img src="https://img.shields.io/badge/pytest-1A0B0E?style=for-the-badge&logo=pytest&logoColor=FFF1EA" alt="pytest"/>
-  <img src="https://img.shields.io/badge/FastAPI-1A0B0E?style=for-the-badge&logo=fastapi&logoColor=FA374E" alt="FastAPI"/>
 </p>
 
-<p align="center"><b>web + glue</b><br/>
+<p align="center"><b>full stack</b><br/>
+  <img src="https://img.shields.io/badge/FastAPI-1A0B0E?style=for-the-badge&logo=fastapi&logoColor=FA374E" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/shadcn/ui-1A0B0E?style=for-the-badge&logo=shadcnui&logoColor=FFF1EA" alt="shadcn/ui"/>
   <img src="https://img.shields.io/badge/Zod-1A0B0E?style=for-the-badge&logo=zod&logoColor=FA374E" alt="Zod"/>
   <img src="https://img.shields.io/badge/TanStack_Query-1A0B0E?style=for-the-badge&logo=reactquery&logoColor=FFF1EA" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/pytest-1A0B0E?style=for-the-badge&logo=pytest&logoColor=FFF1EA" alt="pytest"/>
+  <img src="https://img.shields.io/badge/pandas-1A0B0E?style=for-the-badge&logo=pandas&logoColor=FFF1EA" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-1A0B0E?style=for-the-badge&logo=numpy&logoColor=FA374E" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Apps_Script-1A0B0E?style=for-the-badge&logo=googleappsscript&logoColor=FFF1EA" alt="Apps Script"/>
 </p>
 
@@ -56,10 +54,10 @@
 | layer | tools | where I've used it |
 |:--|:--|:--|
 | **ai & llms** | <img src="https://skillicons.dev/icons?i=notion" height="34" alt="Notion"/> <br/> ![Claude API](https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=white) ![Ink](https://img.shields.io/badge/Ink_CLI-0D1117?style=flat-square) | [hallucination-hunter](https://github.com/sanchigoyal73/hallucination-hunter) (LLM answer auditing) · [Onyx](https://github.com/sanchigoyal73/Onyx) (AI that opens fix PRs) · [ai-pet-logger](https://github.com/sanchigoyal73/ai-pet-logger) (Claude-classified dev journal) |
+| **frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" height="34" alt="React, Next.js, Vite, Tailwind"/> <br/> ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0D1117?style=flat-square&logo=shadcnui&logoColor=white) ![Radix](https://img.shields.io/badge/Radix-0D1117?style=flat-square&logo=radixui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990) ![Zod](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1) | property and real-estate sites for clients: [hp market](https://1-21.vercel.app) · [sab properties](https://sab-properties-swart.vercel.app) |
+| **backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="34" alt="Node.js, Express, FastAPI"/> <br/> ![Apps Script](https://img.shields.io/badge/Apps_Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=4285F4) ![Google Maps](https://img.shields.io/badge/Google_Maps-0D1117?style=flat-square&logo=googlemaps&logoColor=34A853) | APIs, lead-form pipelines, map routes, model serving |
 | **ml & data** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="34" alt="PyTorch, scikit-learn"/> <br/> ![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-0D1117?style=flat-square) ![Scapy](https://img.shields.io/badge/Scapy-0D1117?style=flat-square) | NetWM, SIH 2026: forecasting network attacks with a world model; I built the feature pipeline |
 | **languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css" height="34" alt="TypeScript, JavaScript, Python, C++, HTML, CSS"/> | TS for the web, Python for ML, C++ for DSA practice |
-| **backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="34" alt="Node.js, Express, FastAPI"/> <br/> ![Apps Script](https://img.shields.io/badge/Apps_Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=4285F4) ![Google Maps](https://img.shields.io/badge/Google_Maps-0D1117?style=flat-square&logo=googlemaps&logoColor=34A853) | APIs, lead-form pipelines, map routes, model serving |
-| **frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" height="34" alt="React, Next.js, Vite, Tailwind"/> <br/> ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0D1117?style=flat-square&logo=shadcnui&logoColor=white) ![Radix](https://img.shields.io/badge/Radix-0D1117?style=flat-square&logo=radixui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990) ![Zod](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1) | property and real-estate sites for clients: [hp market](https://1-21.vercel.app) · [sab properties](https://sab-properties-swart.vercel.app) |
 | **ship & test** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vitest" height="34" alt="Git, GitHub, GitHub Actions, Vercel, Vitest"/> <br/> ![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2EAD33) | every project above, deployed on Vercel |
 
 </details>
@@ -75,10 +73,10 @@
   <a href="https://github.com/ArunmehtaBuild/NetWM"><img src="./assets/repo-netwm.svg" alt="NetWM: forecasting network attacks with a world model, SIH 2026" width="49%"/></a>
 </p>
 
-### `03` &nbsp;how a model ships
+### `03` &nbsp;how an AI product ships
 
 <p align="center">
-  <img src="./assets/process.svg" alt="How a model ships: 01 problem, 02 data, 03 model with PyTorch, scikit-learn or LLMs, 04 evaluate with metrics, SHAP and LLM judges, 05 serve with FastAPI and Vercel" width="100%"/>
+  <img src="./assets/process.svg" alt="How an AI product ships: 01 problem, 02 prototype with an LLM and a quick UI, 03 build with Next.js and FastAPI, 04 evaluate with LLM judges and tests, 05 ship on Vercel with GitHub Actions" width="100%"/>
 </p>
 
 ### `04` &nbsp;commit log
