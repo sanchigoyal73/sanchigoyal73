@@ -20,33 +20,33 @@
 #### tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,dart,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, Dart, HTML, CSS"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,ts,js,cpp&theme=dark" alt="Python, PyTorch, scikit-learn, FastAPI, TypeScript, JavaScript, C++"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark" alt="React, Next.js, Vite, Tailwind, Three.js, Flutter"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,tailwind&theme=dark" alt="Node.js, Express, React, Next.js, Vite, Tailwind"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,sklearn&theme=dark" alt="Node.js, Express, FastAPI, PyTorch, scikit-learn"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vitest,npm,notion&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, Vitest, npm, Notion"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,notion,linux&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, Notion, Linux"/>
 </p>
 
-<p align="center">
+<p align="center"><b>ai + ml</b><br/>
+  <img src="https://img.shields.io/badge/Claude_API-1A0B0E?style=for-the-badge&logo=anthropic&logoColor=FA374E" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/LLM_judges-1A0B0E?style=for-the-badge" alt="LLM judges"/>
+  <img src="https://img.shields.io/badge/AI_agents-1A0B0E?style=for-the-badge" alt="AI agents"/>
+  <img src="https://img.shields.io/badge/PyTorch-1A0B0E?style=for-the-badge&logo=pytorch&logoColor=FA374E" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1A0B0E?style=for-the-badge&logo=scikitlearn&logoColor=FFF1EA" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Captum-1A0B0E?style=for-the-badge" alt="Captum"/>
+  <img src="https://img.shields.io/badge/SHAP-1A0B0E?style=for-the-badge" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/pandas-1A0B0E?style=for-the-badge&logo=pandas&logoColor=FFF1EA" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-1A0B0E?style=for-the-badge&logo=numpy&logoColor=FA374E" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scapy-1A0B0E?style=for-the-badge" alt="Scapy"/>
+  <img src="https://img.shields.io/badge/pytest-1A0B0E?style=for-the-badge&logo=pytest&logoColor=FFF1EA" alt="pytest"/>
+  <img src="https://img.shields.io/badge/FastAPI-1A0B0E?style=for-the-badge&logo=fastapi&logoColor=FA374E" alt="FastAPI"/>
+</p>
+
+<p align="center"><b>web + glue</b><br/>
   <img src="https://img.shields.io/badge/shadcn/ui-1A0B0E?style=for-the-badge&logo=shadcnui&logoColor=FFF1EA" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Radix_UI-1A0B0E?style=for-the-badge&logo=radixui&logoColor=FA374E" alt="Radix UI"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-1A0B0E?style=for-the-badge&logo=framer&logoColor=FFF1EA" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/GSAP-1A0B0E?style=for-the-badge&logo=greensock&logoColor=FFF1EA" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/React_Three_Fiber-1A0B0E?style=for-the-badge" alt="React Three Fiber"/>
-  <img src="https://img.shields.io/badge/Lenis-1A0B0E?style=for-the-badge" alt="Lenis"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-1A0B0E?style=for-the-badge&logo=reacthookform&logoColor=FFF1EA" alt="React Hook Form"/>
   <img src="https://img.shields.io/badge/Zod-1A0B0E?style=for-the-badge&logo=zod&logoColor=FA374E" alt="Zod"/>
   <img src="https://img.shields.io/badge/TanStack_Query-1A0B0E?style=for-the-badge&logo=reactquery&logoColor=FFF1EA" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/pandas-1A0B0E?style=for-the-badge&logo=pandas&logoColor=FFF1EA" alt="pandas"/>
-  <img src="https://img.shields.io/badge/SHAP-1A0B0E?style=for-the-badge" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/Playwright-1A0B0E?style=for-the-badge" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Google_Maps-1A0B0E?style=for-the-badge&logo=googlemaps&logoColor=FFF1EA" alt="Google Maps"/>
-  <img src="https://img.shields.io/badge/Apps_Script-1A0B0E?style=for-the-badge&logo=googleappsscript&logoColor=FA374E" alt="Apps Script"/>
-  <img src="https://img.shields.io/badge/Leaflet-1A0B0E?style=for-the-badge&logo=leaflet&logoColor=FFF1EA" alt="Leaflet"/>
-  <img src="https://img.shields.io/badge/Swiper-1A0B0E?style=for-the-badge&logo=swiper&logoColor=FFF1EA" alt="Swiper"/>
-  <img src="https://img.shields.io/badge/Claude_API-1A0B0E?style=for-the-badge&logo=anthropic&logoColor=FA374E" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Apps_Script-1A0B0E?style=for-the-badge&logo=googleappsscript&logoColor=FFF1EA" alt="Apps Script"/>
 </p>
 
 <details>
